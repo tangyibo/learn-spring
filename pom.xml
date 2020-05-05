@@ -1,0 +1,30 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>io.gitee.inrgihc</groupId>
+  <artifactId>learn-spring</artifactId>
+  <version>0.0.1</version>
+  <packaging>pom</packaging>
+  <name>learn-spring</name>
+  <description>Project for learn Spring Source Code</description>
+  <modules>
+  	<module>01-learn-spring-tomcat</module>
+  	<module>02-learn-spring-webmvc</module>
+  	<module>21-learn-spring-mybatis-starter</module>
+  	<module>90-learn-spring-lookup</module>
+  	<module>91-learn-spring-beanpostprocesser</module>
+  	<module>92-learn-spring-autowired</module>
+  	<module>93-learn-spring-scan</module>
+  	<module>93-learn-spring-import</module>
+  	<module>93-learn-spring-configuration</module>
+  	<module>94-learn-spring-event</module>
+  	<module>94-learn-spring-event-annotation</module>
+  	<module>95-learn-spring-el</module>
+  	<module>96-learn-spring-aop-1</module>
+  	<module>96-learn-spring-aop-2</module>
+  	<module>81-learn-spring-objenesis</module>
+  	<module>97-learn-spring-databuffer</module>
+  	<module>98-learn-spring-shell</module>
+  	<module>03-learn-spring-webserver</module>
+  	<module>04-learn-spring-boot</module>
+  </modules>
+</project>
