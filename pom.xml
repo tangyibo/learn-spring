@@ -26,5 +26,9 @@
   	<module>98-learn-spring-shell</module>
   	<module>03-learn-spring-webserver</module>
   	<module>04-learn-spring-boot</module>
+  	<module>10-learn-spring-bean-post-processor</module>
+  	<module>11-learn-spring-di-constructor</module>
+  	<module>12-learn-spring-di-setter</module>
+  	<module>13-learn-spring-di-collection</module>
   </modules>
 </project>
