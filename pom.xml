@@ -30,5 +30,6 @@
   	<module>11-learn-spring-di-constructor</module>
   	<module>12-learn-spring-di-setter</module>
   	<module>13-learn-spring-di-collection</module>
+  	<module>22-learn-spring-jdbc-01</module>
   </modules>
 </project>
