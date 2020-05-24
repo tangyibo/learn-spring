@@ -5,13 +5,13 @@
     <artifactId>30-learn-spring-spi</artifactId>
     <version>0.0.1</version>
   </parent>
-  <artifactId>30-test-app</artifactId>
+  <artifactId>30-test-impl-second</artifactId>
   
   	<dependencies>
 
 		<dependency>
 			<groupId>io.gitee.inrgihc</groupId>
-			<artifactId>30-test-impl-second</artifactId>
+			<artifactId>30-test-api</artifactId>
 			<version>0.0.1</version>
 		</dependency>
 		

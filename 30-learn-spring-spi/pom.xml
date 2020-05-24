@@ -15,5 +15,6 @@
 		<module>30-test-api</module>
 		<module>30-test-impl-first</module>
 		<module>30-test-app</module>
+		<module>30-test-impl-second</module>
 	</modules>
 </project>

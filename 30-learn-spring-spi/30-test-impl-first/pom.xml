@@ -13,7 +13,7 @@
 
 		<dependency>
 			<groupId>io.gitee.inrgihc</groupId>
-			<artifactId>test-api</artifactId>
+			<artifactId>30-test-api</artifactId>
 			<version>0.0.1</version>
 		</dependency>
 		
