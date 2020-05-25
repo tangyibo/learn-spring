@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>io.gitee.inrgihc</groupId>
@@ -32,5 +33,6 @@
   	<module>13-learn-spring-di-collection</module>
   	<module>22-learn-spring-jdbc-01</module>
   	<module>30-learn-spring-spi</module>
+    <module>22-learn-spring-selector</module>
   </modules>
 </project>
