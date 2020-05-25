@@ -33,6 +33,6 @@
   	<module>13-learn-spring-di-collection</module>
   	<module>22-learn-spring-jdbc-01</module>
   	<module>30-learn-spring-spi</module>
-    <module>22-learn-spring-selector</module>
+    <module>23-learn-spring-selector</module>
   </modules>
 </project>
