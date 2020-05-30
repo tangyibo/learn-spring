@@ -1,0 +1,4 @@
+# my test
+io.gitee.inrgihc.factories.service.SendService=\
+io.gitee.inrgihc.factories.service.impl.MyTestService,\
+io.gitee.inrgihc.factories.service.impl.HelloTestService
