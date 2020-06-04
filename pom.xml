@@ -36,5 +36,6 @@
     <module>23-learn-spring-selector</module>
     <module>05-learn-spring-ioc-01</module>
     <module>06-learn-spring-factories</module>
+    <module>07-learn-spring-factory-bean</module>
   </modules>
 </project>
