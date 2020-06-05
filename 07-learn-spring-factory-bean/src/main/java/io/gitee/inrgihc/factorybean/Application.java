@@ -8,6 +8,7 @@ public class Application {
 
 	public static void main(String[] args) {
 		AnnotationConfigApplicationContext ctx=new AnnotationConfigApplicationContext();
+		ctx.setAllowBeanDefinitionOverriding(false);
 		ctx.scan("io.gitee.inrgihc.factorybean");
 		ctx.refresh();
 

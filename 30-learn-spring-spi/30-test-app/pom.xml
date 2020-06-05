@@ -14,7 +14,11 @@
 			<artifactId>30-test-impl-second</artifactId>
 			<version>0.0.1</version>
 		</dependency>
-		
+				<dependency>
+			<groupId>io.gitee.inrgihc</groupId>
+			<artifactId>30-test-impl-first</artifactId>
+			<version>0.0.1</version>
+		</dependency>
 	</dependencies>
 	
 </project>
