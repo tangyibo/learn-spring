@@ -43,5 +43,6 @@
     <module>16-learn-spring-web-https</module>
     <module>17-learn-spring-boot-mail</module>
     <module>18-learn-spring-boot-redis</module>
+    <module>19-learn-spring-auto-properties</module>
   </modules>
 </project>
