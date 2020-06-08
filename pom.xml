@@ -44,5 +44,7 @@
     <module>17-learn-spring-boot-mail</module>
     <module>18-learn-spring-boot-redis</module>
     <module>19-learn-spring-auto-properties</module>
+	<module>24-learn-spring-condition-annotation</module>
+    <module>25-learn-spring-myservice-starter</module>
   </modules>
 </project>
