@@ -37,6 +37,7 @@
     <module>05-learn-spring-ioc-01</module>
     <module>06-learn-spring-factories</module>
     <module>07-learn-spring-factory-bean</module>
+	<module>08-learn-spring-circle-dependency</module>
     <module>14-learn-spring-boot-banner</module>
     <module>15-learn-spring-my-property-files</module>
     <module>16-learn-spring-web-https</module>
